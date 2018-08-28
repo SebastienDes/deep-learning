@@ -1,0 +1,315 @@
+=================
+=== EPOCH 1 =====
+=================
+
+Accuracy test: 
+ 46.8750
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 38.4766
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 2 =====
+=================
+
+Accuracy test: 
+ 47.4609
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 40.8203
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 3 =====
+=================
+
+Accuracy test: 
+ 36.9141
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 34.9609
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 4 =====
+=================
+
+Accuracy test: 
+ 56.4453
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 55.6641
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 5 =====
+=================
+
+Accuracy test: 
+ 61.5234
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 57.2266
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 6 =====
+=================
+
+Accuracy test: 
+ 62.6953
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 62.6953
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 7 =====
+=================
+
+Accuracy test: 
+ 61.9141
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 61.1328
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 8 =====
+=================
+
+Accuracy test: 
+ 64.4531
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 66.2109
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 9 =====
+=================
+
+Accuracy test: 
+ 57.4219
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 55.6641
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 10 =====
+=================
+
+Accuracy test: 
+ 59.9609
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 64.2578
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 11 =====
+=================
+
+Accuracy test: 
+ 63.8672
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 65.4297
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 12 =====
+=================
+
+Accuracy test: 
+ 63.6719
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 67.9688
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 13 =====
+=================
+
+Accuracy test: 
+ 59.3750
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 52.1484
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 14 =====
+=================
+
+Accuracy test: 
+ 62.6953
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 65.8203
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 15 =====
+=================
+
+Accuracy test: 
+ 70.3125
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 72.2656
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 16 =====
+=================
+
+Accuracy test: 
+ 23.8281
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 24.8047
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 17 =====
+=================
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 18 =====
+=================
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 19 =====
+=================
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 20 =====
+=================
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 21 =====
+=================
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 22 =====
+=================
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 23 =====
+=================
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 24 =====
+=================
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 25 =====
+=================
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 26 =====
+=================
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+Accuracy test: 
+ 25
+[torch.cuda.FloatTensor of size 1 (GPU 0)]
+
+=================
+=== EPOCH 27 =====
+=================
